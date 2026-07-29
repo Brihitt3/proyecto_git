@@ -1,3 +1,4 @@
 Dia 1:Primera entrada de la bitacora
 Día 2: Se definen los parametros para el trabajo.
 Día 3: Se formalizan los parámetros en el archivo parametros.txt y se crea tareas.txt con las actividades asignadas.
+Dia 4: Se Realiza el Cambio, en el equipo de Alex Vazquez
