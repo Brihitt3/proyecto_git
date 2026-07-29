@@ -1,0 +1,6 @@
+LISTA DE TAREAS DEL PROYECTO
+
+Crear repositorio e inicializar Git       | Responsable: Britany
+Definir parámetros y estructura inicial   | Responsable: Britany
+Registrar actualización en bitácora       | Responsable: Britany
+Marcar tarea completada y hacer push      | Responsable: Britany
