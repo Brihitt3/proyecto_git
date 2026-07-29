@@ -14,5 +14,6 @@ Contenido
 
 Colaboradores
 
-* Villegas Britany 
+* Villegas Britany
+* Vasquez Alex 
 
