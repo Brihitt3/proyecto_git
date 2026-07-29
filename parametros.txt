@@ -1,0 +1,4 @@
+PARAMETROS Y REGLAS DEL PROYECTO
+1. Estructura: Todos los avances deben documentarse en bitacora.txt.
+2. Commits: Usar mensajes descriptivos en cada cambio guardado.
+3. Colaboracion: Cada integrante debe trabajar sobre su propia tarea asignada.
